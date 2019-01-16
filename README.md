@@ -5,6 +5,5 @@ A preliminary understanding of the engineering practice of decisiontree
 ##### 2. 生成决策树并可视化
 ##### 3. 决策树正确率计算
 ##### 4. 决策树对单个测试数据进行决策.
-开发环境: python3.4 + vscode .
-_ 
+开发环境: python3.4 + vscode . <br>
 注意: 此决策树算法仅针对于枚举型数据.
